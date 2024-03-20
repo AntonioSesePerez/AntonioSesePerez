@@ -2,6 +2,13 @@
 - 🔭 I’m currently working on <strong>Accenture</strong>
 - 🌱 I’m currently learning <strong>DevOps</strong>
 
+| Prueba tabla | Columna1 |
+|-----:|-----------|
+|     1| AAAAA |
+|     2| BBBBB |
+|     3| CCCCC |
+
+
 <!--
 **AntonioSesePerez/AntonioSesePerez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
