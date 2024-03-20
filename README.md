@@ -1,5 +1,5 @@
 ### Hola 👋
-- 🔭 I’m currently working on Accenture
+- 🔭 I’m currently working on <b>Accenture</b>
 - 🌱 I’m currently learning DevOps
 
 <!--
