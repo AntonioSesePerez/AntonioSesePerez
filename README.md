@@ -1,6 +1,6 @@
 ### Hola 👋
-- 🔭 I’m currently working on <b>Accenture</b>
-- 🌱 I’m currently learning DevOps
+- 🔭 I’m currently working on <strong>Accenture</strong>
+- 🌱 I’m currently learning <strong>DevOps</strong>
 
 <!--
 **AntonioSesePerez/AntonioSesePerez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
